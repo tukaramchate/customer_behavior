@@ -84,7 +84,7 @@ Customer-Behavior/
 
 ### Step 1️⃣: Clone the Repository
 ```bash
-git clone <repository-url>
+[git clone <repository-url>](https://github.com/tukaramchate/customer_behavior)
 cd Customer-Behavior
 ```
 

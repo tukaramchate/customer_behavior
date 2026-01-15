@@ -1,0 +1,45 @@
+MIT License
+
+Copyright (c) 2026 Customer Shopping Behavior Analysis Project
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+
+ADDITIONAL INFORMATION:
+
+This project is provided for educational and portfolio development purposes.
+
+Users are encouraged to:
+  • Use this as a learning resource for data analytics and Python/SQL skills
+  • Adapt and modify for their own portfolio projects and practice
+  • Share and distribute with proper attribution
+  • Build upon this work for commercial or non-commercial purposes
+
+DATASET NOTICE:
+The customer shopping behavior dataset used in this project may have its own
+licensing terms. Users should ensure compliance with any applicable data usage
+agreements and properly attribute the data source.
+
+PORTFOLIO USE:
+This project is specifically designed to be used in data analytics portfolios.
+You are encouraged to fork, modify, and showcase this project as part of your
+professional portfolio on GitHub, LinkedIn, or other platforms.
+
+================================================================================

@@ -15,41 +15,7 @@ A comprehensive end-to-end data analytics project demonstrating professional ana
 
 This project simulates a corporate-grade data analytics workflow, translating raw customer data into actionable business intelligence through seven key stages:
 
-### **01** | Business Problem Statement
-Define analytical objectives and key business questions around customer shopping behavior, revenue drivers, and loyalty patterns.
 
-### **02** | Data Modeling & EDA in Python
-- Import and explore customer shopping dataset
-- Clean data and handle missing values with intelligent imputation
-- Feature engineering (age groups, purchase frequency metrics)
-- Statistical analysis and data profiling
-
-### **03** | Data Analysis in SQL
-- Load cleaned data into SQL database (MySQL/PostgreSQL/MS SQL Server)
-- Execute 10+ complex analytical queries
-- Extract insights on customer segments, loyalty, and purchase drivers
-- Analyze revenue patterns and subscription behavior
-
-### **04** | Interactive Dashboard using Power BI
-- Connect SQL database to Power BI
-- Build interactive visualizations highlighting key patterns and trends
-- Enable stakeholders to explore data through dynamic filters
-- Present insights through professional dashboard design
-
-### **05** | Project Report
-- Summarize key findings and data-driven insights
-- Document methodology and analytical approach
-- Present business recommendations based on analysis
-
-### **06** | Presentation using Gamma AI
-- Create professional presentation deck
-- Visually communicate insights to stakeholders
-- Prepare for business presentation scenarios
-
-### **07** | GitHub Repository
-- Upload complete project files with documentation
-- Showcase work in professional portfolio
-- Enable reproducibility and collaboration
 
 ![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
 
